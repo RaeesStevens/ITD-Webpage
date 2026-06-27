@@ -1,4 +1,4 @@
-# ITD-Webpage Raees Stevens
+# ITD Webpage Raees Stevens
 My CYF ITD webpage repository. 
 
 #Completing step 6 in the CYF ITD course.
