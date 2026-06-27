@@ -1,5 +1,6 @@
-# ITD Webpage Raees Stevens
-My CYF ITD webpage repository. 
+# Cape Town
 
-#Completing step 6 in the CYF ITD course.
-#This is my first time uploading a website onto GitHub and creating a repository. 
+A Pen created on CodePen.
+
+Original URL: [https://codepen.io/Raees_Stevens/pen/JoEJMMm](https://codepen.io/Raees_Stevens/pen/JoEJMMm).
+
